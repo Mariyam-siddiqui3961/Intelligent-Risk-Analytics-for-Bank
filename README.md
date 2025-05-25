@@ -43,7 +43,7 @@ Feature correlation, risk trends, and predictions
 Model evaluation using accuracy, confusion matrix, etc.
 
 
-** #How to Run**
+**#How to Run**
 
 Clone the repo:
 git clone https://github.com/your-username/Intelligent-Risk-Analytics.git
@@ -54,6 +54,17 @@ pip install -r requirements.txt
 
 Run the Jupyter Notebook:
 jupyter notebook
+
+**#Future Enhancements**
+
+Model deployment with Streamlit or Flask
+Real-time data dashboarding
+Integration with cloud-based platforms
+
+**#Contributing**
+Contributions are welcome! Please open an issue or submit a pull request.
+
+
 
 
 
