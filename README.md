@@ -6,7 +6,8 @@ A data-driven project aimed at identifying, classifying, and analyzing financial
 
 
 
- Objective
+ #Objective
+ 
 To analyze customer and financial data for risk prediction using EDA, machine learning, and visual intelligence, enabling financial institutions to:
 
 Identify risk-prone customer segments
@@ -18,7 +19,7 @@ Support proactive decision-making and strategy
 
 
 
- Tools & Technologies Used
+ #Tools & Technologies Used
 
 Python	Core language for analysis and modeling
 NumPy	Numerical operations
